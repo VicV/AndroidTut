@@ -3,7 +3,6 @@
 ###Workspace Setup and the easiest Hello World ever
 =================================================
 
-
 ####The Setup
 Alright, now that we're delving into writing some stuff, lets get your workspace sorted out.
 
