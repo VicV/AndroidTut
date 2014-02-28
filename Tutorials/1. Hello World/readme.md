@@ -10,3 +10,5 @@ Did you start Eclipse? Then you're off to a good start.
 
 You should see something like this: 
 
+
+![](Images/1.jpg?raw=true)
